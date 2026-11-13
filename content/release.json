@@ -1,0 +1,14 @@
+{
+  "version": "3.1.0",
+  "current_version": "3.0.0",
+  "status": "coming_soon",
+  "release_date": null,
+  "download_url": "https://play.google.com/store/apps/details?id=com.jnr.galaxiga",
+  "title": {"en": "Fleet & Combat Update", "es": "Actualización de flota y combate"},
+  "features": [
+    {"id":"customization","availability":"awaiting_production_validation","title":{"en":"Your ship. Your signature.","es":"Tu nave. Tu estilo."},"body":{"en":"Make the Hangar your own with cosmetic wing and armor attachments, ship-specific equipment, and Common, Rare and Epic enhancements. Planned acquisition includes in-game coin purchases and boss-exclusive cosmetic rewards. Visual upgrades only; no combat bonuses.","es":"Personaliza tu hangar con alas y blindajes cosméticos, equipo compatible con cada nave y mejoras comunes, raras y épicas. Se prevén compras con monedas del juego y recompensas cosméticas exclusivas de jefes. Solo cambian el aspecto; no dan ventajas en combate."}},
+    {"id":"combat","availability":"awaiting_production_validation","title":{"en":"Read a changing battlefield.","es":"El combate cambia de forma."},"body":{"en":"More varied enemy formations, improved grouped dives, stepped clockwork movement and formation morphing are in development. Clearer visual feedback and refined combat pacing aim to keep each encounter readable. Behaviors and tuning are still being tested.","es":"Estamos desarrollando formaciones más variadas, picados en grupo mejorados, movimientos de rotación por pasos y transformaciones de formación. Los efectos más claros y los ajustes de ritmo buscan combates fáciles de interpretar. Los comportamientos y el equilibrio siguen en pruebas."}},
+    {"id":"rewards","availability":"awaiting_production_validation","title":{"en":"Bring something back from battle.","es":"Vuelve con algo más que una victoria."},"body":{"en":"Boss loot containers, cosmetic discoveries and improved reward reveals are planned to give your next encounter a little more anticipation, with more to collect and equip as your Hangar grows.","es":"Los contenedores de botín de jefes, los descubrimientos cosméticos y una presentación de recompensas mejorada buscan dar más emoción al próximo encuentro, con más objetos que coleccionar y equipar en tu hangar."}},
+    {"id":"visuals","availability":"awaiting_production_validation","title":{"en":"A sharper arcade identity.","es":"Una identidad arcade renovada."},"body":{"en":"Reworked enemy artwork, improved player ship presentation, new combat effects and enhanced UI are part of the planned visual refresh. Development previews show work in progress, not the current Google Play release.","es":"El rediseño de enemigos, una presentación mejorada de tu nave, nuevos efectos de combate y una interfaz renovada forman parte de los cambios previstos. Las imágenes de desarrollo muestran trabajo en curso, no la versión actual de Google Play."}}
+  ]
+}
